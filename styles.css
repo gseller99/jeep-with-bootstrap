@@ -16,6 +16,9 @@ body {
     margin-right: 0px;
     */
 }
+.navlistdot {
+    list-style-type: none;
+}
 
 .menu-size {
     font-size: 14px;
@@ -30,8 +33,6 @@ body {
 .menu-item-box-size {
    width:315px;
 }
-
-
 
 .vehicles-text {
     color: white;
